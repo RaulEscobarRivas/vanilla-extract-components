@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading should render color style 1`] = `
+<div>
+  <h1
+    class="variants_colorStyle_red.600__nc0lsl9 Heading_sizeStyle_h1__1lih4p21 Heading_headingBase__1lih4p27"
+  />
+</div>
+`;
+
+exports[`Heading should render custom h3 tag 1`] = `
+<div>
+  <h3
+    class="variants_colorStyle_gray.800__nc0lsl4 Heading_sizeStyle_h1__1lih4p21 Heading_headingBase__1lih4p27"
+  />
+</div>
+`;
+
+exports[`Heading should render default style 1`] = `
+<div>
+  <h1
+    class="variants_colorStyle_gray.800__nc0lsl4 Heading_sizeStyle_h1__1lih4p21 Heading_headingBase__1lih4p27"
+  />
+</div>
+`;
+
+exports[`Heading should render ellipsis style 1`] = `
+<div>
+  <h1
+    class="variants_colorStyle_gray.800__nc0lsl4 Heading_sizeStyle_h1__1lih4p21 variants_ellipsisStyle__nc0lsle Heading_headingBase__1lih4p27"
+  />
+</div>
+`;
+
+exports[`Heading should render shadow style 1`] = `
+<div>
+  <h1
+    class="variants_colorStyle_gray.800__nc0lsl4 Heading_sizeStyle_h1__1lih4p21 variants_shadowStyle__nc0lsld Heading_headingBase__1lih4p27"
+  />
+</div>
+`;
+
+exports[`Heading should render size style 1`] = `
+<div>
+  <h1
+    class="variants_colorStyle_gray.800__nc0lsl4 Heading_sizeStyle_h6__1lih4p26 Heading_subheadingBase__1lih4p28"
+  />
+</div>
+`;
+
+exports[`Heading should render textAlign=center style 1`] = `
+<div>
+  <h1
+    class="variants_colorStyle_gray.800__nc0lsl4 variants_textAlignStyle_center__nc0lslj Heading_sizeStyle_h1__1lih4p21 Heading_headingBase__1lih4p27"
+  />
+</div>
+`;
+
+exports[`Heading should render textAlign=left style 1`] = `
+<div>
+  <h1
+    class="variants_colorStyle_gray.800__nc0lsl4 variants_textAlignStyle_left__nc0lslh Heading_sizeStyle_h1__1lih4p21 Heading_headingBase__1lih4p27"
+  />
+</div>
+`;
+
+exports[`Heading should render textAlign=right style 1`] = `
+<div>
+  <h1
+    class="variants_colorStyle_gray.800__nc0lsl4 variants_textAlignStyle_right__nc0lsli Heading_sizeStyle_h1__1lih4p21 Heading_headingBase__1lih4p27"
+  />
+</div>
+`;
+
+exports[`Heading should render variant styles 1`] = `
+<div>
+  <h2
+    class="variants_colorStyle_gray.200__nc0lsl0 variants_textAlignStyle_left__nc0lslh Heading_sizeStyle_superhero__1lih4p20 variants_shadowStyle__nc0lsld variants_ellipsisStyle__nc0lsle Heading_headingBase__1lih4p27"
+  />
+</div>
+`;

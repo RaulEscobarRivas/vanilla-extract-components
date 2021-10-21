@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`constants - media should match snapshot 1`] = `
+Object {
+  "SCREEN_BELOW_LG": "(max-width: 991px)",
+  "SCREEN_BELOW_MD": "(max-width: 767px)",
+  "SCREEN_BELOW_SM": "(max-width: 575px)",
+  "SCREEN_BELOW_XL": "(max-width: 1440px)",
+  "SCREEN_LG": "(min-width: 992px)",
+  "SCREEN_LG_XL": "(min-width: 992px) and (max-width: 1440px)",
+  "SCREEN_MD": "(min-width: 768px)",
+  "SCREEN_MD_LG": "(min-width: 768px) and (max-width: 991px)",
+  "SCREEN_MD_XL": "(min-width: 768px) and (max-width: 1440px)",
+  "SCREEN_SM": "(min-width: 576px)",
+  "SCREEN_SM_LG": "(min-width: 576px) and (max-width: 991px)",
+  "SCREEN_SM_MD": "(min-width: 576px) and (max-width: 767px)",
+  "SCREEN_SM_XL": "(min-width: 576px) and (max-width: 1440px)",
+  "SCREEN_XL": "(min-width: 1441px)",
+}
+`;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input should append className 1`] = `
+<div>
+  <input
+    class="Input_inputStyle__lwe5cj0 myClass"
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`Input should render default style 1`] = `
+<div>
+  <input
+    class="Input_inputStyle__lwe5cj0"
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`Input should render error style 1`] = `
+<div>
+  <input
+    class="Input_inputStyle__lwe5cj0 Input_inputErrorStyle__lwe5cj1"
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`Input should render with control value 1`] = `
+<div>
+  <input
+    class="Input_inputStyle__lwe5cj0"
+    type="text"
+    value="test"
+  />
+</div>
+`;

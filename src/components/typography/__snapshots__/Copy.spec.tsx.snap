@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Copy should render bold style 1`] = `
+<div>
+  <p
+    class="Copy_copyBase__o5k5655 variants_colorStyle_gray.800__nc0lsl4 Copy_sizeStyle_md__o5k5652 variants_boldStyle__nc0lslg"
+  />
+</div>
+`;
+
+exports[`Copy should render color style 1`] = `
+<div>
+  <p
+    class="Copy_copyBase__o5k5655 variants_colorStyle_green.300__nc0lsl7 Copy_sizeStyle_md__o5k5652"
+  />
+</div>
+`;
+
+exports[`Copy should render custom span tag 1`] = `
+<div>
+  <span
+    class="Copy_copyBase__o5k5655 variants_colorStyle_gray.800__nc0lsl4 Copy_sizeStyle_md__o5k5652"
+  />
+</div>
+`;
+
+exports[`Copy should render default style 1`] = `
+<div>
+  <p
+    class="Copy_copyBase__o5k5655 variants_colorStyle_gray.800__nc0lsl4 Copy_sizeStyle_md__o5k5652"
+  />
+</div>
+`;
+
+exports[`Copy should render ellipsis style 1`] = `
+<div>
+  <p
+    class="Copy_copyBase__o5k5655 variants_colorStyle_gray.800__nc0lsl4 Copy_sizeStyle_md__o5k5652 variants_ellipsisStyle__nc0lsle"
+  />
+</div>
+`;
+
+exports[`Copy should render extraLight style 1`] = `
+<div>
+  <p
+    class="Copy_copyBase__o5k5655 variants_colorStyle_gray.800__nc0lsl4 Copy_sizeStyle_md__o5k5652 variants_extraLightStyle__nc0lslf"
+  />
+</div>
+`;
+
+exports[`Copy should render shadow style 1`] = `
+<div>
+  <p
+    class="Copy_copyBase__o5k5655 variants_colorStyle_gray.800__nc0lsl4 Copy_sizeStyle_md__o5k5652 variants_shadowStyle__nc0lsld"
+  />
+</div>
+`;
+
+exports[`Copy should render size style 1`] = `
+<div>
+  <p
+    class="Copy_copyBase__o5k5655 variants_colorStyle_gray.800__nc0lsl4 Copy_sizeStyle_xs__o5k5650"
+  />
+</div>
+`;
+
+exports[`Copy should render textAlign=center style 1`] = `
+<div>
+  <p
+    class="Copy_copyBase__o5k5655 variants_colorStyle_gray.800__nc0lsl4 variants_textAlignStyle_center__nc0lslj Copy_sizeStyle_md__o5k5652"
+  />
+</div>
+`;
+
+exports[`Copy should render textAlign=left style 1`] = `
+<div>
+  <p
+    class="Copy_copyBase__o5k5655 variants_colorStyle_gray.800__nc0lsl4 variants_textAlignStyle_left__nc0lslh Copy_sizeStyle_md__o5k5652"
+  />
+</div>
+`;
+
+exports[`Copy should render textAlign=right style 1`] = `
+<div>
+  <p
+    class="Copy_copyBase__o5k5655 variants_colorStyle_gray.800__nc0lsl4 variants_textAlignStyle_right__nc0lsli Copy_sizeStyle_md__o5k5652"
+  />
+</div>
+`;
+
+exports[`Copy should render variant styles 1`] = `
+<div>
+  <p
+    class="Copy_copyBase__o5k5655 variants_colorStyle_white__nc0lsla variants_textAlignStyle_right__nc0lsli Copy_sizeStyle_xl__o5k5654 variants_shadowStyle__nc0lsld variants_ellipsisStyle__nc0lsle variants_boldStyle__nc0lslg"
+  />
+</div>
+`;
