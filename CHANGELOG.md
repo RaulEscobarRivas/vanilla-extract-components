@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/tourlane/tourlane-lui/compare/v1.1.2...v1.1.3) (2021-11-03)
+
+
+### Bug Fixes
+
+* **package.json:** plugins as dependencies ([27f6d79](https://github.com/tourlane/tourlane-lui/commit/27f6d79642427fa5d02f647766bc31b730745819))
+
 ## [1.1.2](https://github.com/tourlane/tourlane-lui/compare/v1.1.1...v1.1.2) (2021-11-03)
 
 
