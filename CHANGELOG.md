@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/tourlane/tourlane-lui/compare/v1.1.1...v1.1.2) (2021-11-03)
+
+
+### Bug Fixes
+
+* **package.json:** expose plugin files ([a8886e9](https://github.com/tourlane/tourlane-lui/commit/a8886e987c0ce9f69d023b61539665942da5dc88))
+
 ## [1.1.1](https://github.com/tourlane/tourlane-lui/compare/v1.1.0...v1.1.1) (2021-10-27)
 
 
