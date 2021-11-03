@@ -4,7 +4,10 @@
   "author": "",
   "description": "",
   "files": [
-    "dist/*"
+    "dist/*",
+    "babel-plugin",
+    "gatsby-plugin",
+    "webpack-plugin"
   ],
   "license": "ISC",
   "main": "dist/index.js",
