@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/tourlane/tourlane-lui/compare/v1.1.3...v1.1.4) (2021-11-03)
+
+
+### Bug Fixes
+
+* **package.json:** vanilla-extract/css as dependency ([e7619b2](https://github.com/tourlane/tourlane-lui/commit/e7619b2244281dc808dde5e8df0213c778a33903))
+
 ## [1.1.3](https://github.com/tourlane/tourlane-lui/compare/v1.1.2...v1.1.3) (2021-11-03)
 
 
