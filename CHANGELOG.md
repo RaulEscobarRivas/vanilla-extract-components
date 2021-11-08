@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/tourlane/tourlane-lui/compare/v1.1.5...v1.1.6) (2021-11-08)
+
+
+### Bug Fixes
+
+* **package.json:** expose theme and media ([35ab578](https://github.com/tourlane/tourlane-lui/commit/35ab5788125acdb029cc76c8c03efee7a5f2e7b1))
+
 ## [1.1.5](https://github.com/tourlane/tourlane-lui/compare/v1.1.4...v1.1.5) (2021-11-03)
 
 
