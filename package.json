@@ -1,6 +1,6 @@
 {
   "name": "@tourlane/lui",
-  "version": "1.1.6",
+  "version": "1.1.5",
   "author": "",
   "description": "",
   "files": [
@@ -8,8 +8,8 @@
     "babel-plugin",
     "gatsby-plugin",
     "webpack-plugin",
-    "media",
-    "theme"
+    "media.js",
+    "theme.js"
   ],
   "license": "ISC",
   "main": "dist/index.js",
