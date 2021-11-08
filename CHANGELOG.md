@@ -1,3 +1,10 @@
+## [1.1.7](https://github.com/tourlane/tourlane-lui/compare/v1.1.6...v1.1.7) (2021-11-08)
+
+
+### Bug Fixes
+
+* **package.json:** media and them .js extension ([cb22499](https://github.com/tourlane/tourlane-lui/commit/cb22499d105f97a3c1b068170f2d667b43abe0c4))
+
 ## [1.1.6](https://github.com/tourlane/tourlane-lui/compare/v1.1.5...v1.1.6) (2021-11-08)
 
 
