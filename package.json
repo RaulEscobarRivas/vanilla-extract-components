@@ -7,7 +7,9 @@
     "dist/*",
     "babel-plugin",
     "gatsby-plugin",
-    "webpack-plugin"
+    "webpack-plugin",
+    "media",
+    "theme"
   ],
   "license": "ISC",
   "main": "dist/index.js",
