@@ -1,22 +1,18 @@
 {
-  "name": "@tourlane/lui",
-  "version": "1.1.13",
-  "author": "",
+  "name": "vanilla-extract-components",
+  "version": "0.0.1",
+  "author": "RaulEscobarRivas",
   "description": "",
   "files": [
     "dist/*",
     "babel-plugin",
-    "gatsby-plugin",
-    "webpack-plugin",
-    "media.js",
-    "theme.js"
+    "gatsby-plugin"
   ],
   "license": "ISC",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
   "scripts": {
-    "build": "rm -r -f dist && ./node_modules/.bin/rollup -c",
-    "test": "./node_modules/.bin/jest"
+    "build": "rm -r -f dist && ./node_modules/.bin/rollup -c"
   },
   "devDependencies": {
     "@babel/core": "^7.14.3",
@@ -26,39 +22,19 @@
     "@rollup/plugin-commonjs": "^19.0.0",
     "@rollup/plugin-node-resolve": "^13.0.0",
     "@rollup/plugin-typescript": "^8.2.1",
-    "@semantic-release/changelog": "^6.0.0",
-    "@semantic-release/commit-analyzer": "^9.0.1",
-    "@semantic-release/git": "^10.0.0",
-    "@semantic-release/github": "^8.0.1",
-    "@semantic-release/npm": "^8.0.2",
-    "@semantic-release/release-notes-generator": "^10.0.2",
-    "@testing-library/react": "^12.0.0",
-    "@testing-library/react-hooks": "^7.0.0",
-    "@types/googlemaps": "^3.43.3",
-    "@types/jest": "^27.0.2",
-    "babel-jest": "^27.0.5",
-    "jest": "^27.0.5",
+    "@types/react": "^17.0.34",
+    "@vanilla-extract/css": "^1.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "rollup": "^2.50.6",
     "rollup-plugin-cleanup": "^3.2.1",
     "rollup-plugin-rename-node-modules": "^1.1.0",
     "rollup-plugin-ts": "^1.4.0",
-    "ts-jest": "^27.0.3",
     "typescript": "^4.3.2"
   },
   "dependencies": {
-    "@radix-ui/react-accordion": "^0.0.17",
-    "@radix-ui/react-dialog": "^0.0.20",
-    "@radix-ui/react-dropdown-menu": "^0.0.22",
-    "@radix-ui/react-popover": "^0.1.0",
-    "@radix-ui/react-tabs": "^0.0.15",
-    "@react-google-maps/api": "^2.2.0",
     "@vanilla-extract/babel-plugin": "^1.0.0",
-    "@vanilla-extract/css": "^1.1.0",
-    "@vanilla-extract/webpack-plugin": "^1.0.2",
     "classnames": "^2.3.1",
-    "flat": "^5.0.2",
     "gatsby-plugin-vanilla-extract": "^1.0.5"
   }
 }

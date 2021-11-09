@@ -1,10 +1,9 @@
 import { style } from "@vanilla-extract/css";
-import { theme } from "../../theme.css";
 
 export const linkBase = style({
   padding: 0,
   margin: 0,
-  color: theme.color.gray["800"],
+  color: "gray",
   fontFamily: "Source Sans Pro, sans-serif",
   cursor: "pointer",
   fontStyle: "normal",

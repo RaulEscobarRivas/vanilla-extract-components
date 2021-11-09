@@ -26,11 +26,6 @@ module.exports = [
       },
     ],
     plugins: [
-      // When using the `preserveModules` output option, Rollup will
-      // generate a node_modules directory as part of the dist. This
-      // can lead to issues as npm and bundlers treat this directory
-      // in a special way. This plugin will change the name of the
-      // directory to avoid any nonsense.
       renameNodeModules("modules"),
       babel({
         babelHelpers: "bundled",
