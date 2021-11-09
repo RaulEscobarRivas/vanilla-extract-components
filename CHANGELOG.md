@@ -1,3 +1,11 @@
+## [1.1.9](https://github.com/tourlane/tourlane-lui/compare/v1.1.8...v1.1.9) (2021-11-09)
+
+
+### Bug Fixes
+
+* **babel.config.js:** added vanilla extract babel plugin to the babel config ([6d00a34](https://github.com/tourlane/tourlane-lui/commit/6d00a34c990eeabb9370641a6ccb162f946577a2))
+* **babel.config.js:** removed all changes made to that file ([ccee6f0](https://github.com/tourlane/tourlane-lui/commit/ccee6f0791f1bfd8df95d1fa6fe33c9ee9632de9))
+
 ## [1.1.8](https://github.com/tourlane/tourlane-lui/compare/v1.1.7...v1.1.8) (2021-11-08)
 
 
