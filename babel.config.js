@@ -9,7 +9,7 @@ module.exports = {
     }],
     '@babel/preset-react',
     '@babel/preset-typescript',
-    '@vanilla-extract/babel-plugin'
+    'vanilla-extract/babel-plugin'
   ],
   plugins: [
     // We need to run our own plugin here to handle
