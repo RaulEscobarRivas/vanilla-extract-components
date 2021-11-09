@@ -1,3 +1,10 @@
+## [1.1.12](https://github.com/tourlane/tourlane-lui/compare/v1.1.11...v1.1.12) (2021-11-09)
+
+
+### Bug Fixes
+
+* **package.json:** all files ([120b57a](https://github.com/tourlane/tourlane-lui/commit/120b57ac70846e7a082eeadbf4bc76e61e0125c1))
+
 ## [1.1.11](https://github.com/tourlane/tourlane-lui/compare/v1.1.10...v1.1.11) (2021-11-09)
 
 
