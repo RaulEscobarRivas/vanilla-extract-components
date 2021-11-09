@@ -3,6 +3,14 @@
   "version": "1.1.12",
   "author": "",
   "description": "",
+  "files": [
+    "dist/*",
+    "babel-plugin",
+    "gatsby-plugin",
+    "webpack-plugin",
+    "media.js",
+    "theme.js"
+  ],
   "license": "ISC",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
