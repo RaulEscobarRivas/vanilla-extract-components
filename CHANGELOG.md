@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/tourlane/tourlane-lui/compare/v1.1.10...v1.1.11) (2021-11-09)
+
+
+### Bug Fixes
+
+* Revert "fix(rollup): add vanilla extract babel plugin" ([c3b143f](https://github.com/tourlane/tourlane-lui/commit/c3b143fe2010d71ec7ee4f2c5e7b016c0d5a135b))
+
 ## [1.1.10](https://github.com/tourlane/tourlane-lui/compare/v1.1.9...v1.1.10) (2021-11-09)
 
 
