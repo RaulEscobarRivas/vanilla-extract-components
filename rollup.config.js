@@ -31,6 +31,7 @@ module.exports = [
         babelHelpers: "bundled",
         exclude: "node_modules/**",
         presets: ["@babel/preset-react"],
+        plugins: ["@vanilla-extract/babel-plugin"]
       }),
       nodeResolve({
         extensions: [".js", ".jsx", ".ts", ".tsx"],
