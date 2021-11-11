@@ -4,10 +4,12 @@
   "author": "RaulEscobarRivas",
   "description": "",
   "license": "ISC",
-  "main": "dist/index.js",
-  "types": "dist/index.d.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.js",
   "scripts": {
-    "build": "rm -r -f dist && ./node_modules/.bin/rollup -c"
+    "ts-types": "tsc --emitDeclarationOnly",
+    "build": "rm -r -f lib && node esbuild.bundle.js && npm run ts-types",
+    "build-rollup": "rm -r -f dist && ./node_modules/.bin/rollup -c"
   },
   "devDependencies": {
     "@babel/core": "^7.14.3",
@@ -19,6 +21,10 @@
     "@rollup/plugin-typescript": "^8.2.1",
     "@types/react": "^17.0.34",
     "@vanilla-extract/css": "^1.1.0",
+    "@vanilla-extract/esbuild-plugin": "^2.0.0",
+    "autoprefixer": "^10.4.0",
+    "esbuild": "^0.13.13",
+    "postcss": "^8.3.11",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "rollup": "^2.50.6",
